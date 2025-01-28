@@ -35,6 +35,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
+        <link rel="icon" href="/images/favicon.ico" />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <title>{about.names.join(' ') || 'Portfolio'}</title>
       </Head>
