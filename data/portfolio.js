@@ -26,7 +26,7 @@ const projects = [
     thumbnail: 'images/paws.png',
     name: `P'sPaws`,
     description: [
-      'A pet care service or  offers a variety of products and services to pamper your furry friends.',
+      'A pet care service or  offers  of products and services to pamper your furry friends.',
     ],
     stack: ['Bootstrap', 'jQuery'],
     
