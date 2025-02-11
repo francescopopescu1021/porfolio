@@ -13,7 +13,7 @@ const about = {
   role: 'Full Stack Developer',
   company: '',
   description: [
-    'Innovative Full-Stack Developer with 6 years of experience, specializing in creating elegant solutions, optimize system performance, and enhance user experiences. Passionate about leveraging cutting-edge technologies to contribute to mission-driven organizations and sustainable initiatives.',
+    'Innovative Full-Stack Developer with 6 experience, specializing in creating elegant solutions, optimize system performance, and enhance user experiences. Passionate about leveraging cutting-edge technologies to contribute to mission-driven organizations and sustainable initiatives.',
   ],
   resume: '/Francesco Virgilio Popescu_Frontend developer.pdf',
 }
